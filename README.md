@@ -1,5 +1,14 @@
 # README
 
+## Example of client validation with with stimulusjs and validatejs
+
+
+Rails 6.0.3.2
+
+Ruby 2.6.5
+
+StimulusJS 1.1.1
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
