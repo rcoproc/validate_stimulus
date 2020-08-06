@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+.has-error > input {
+  border-color: #a94442;
+ }
+
+ .has-error > label {
+  color: #a94442;
+ }
+
+ .has-error > div {
+  color: #a94442;
+ }
